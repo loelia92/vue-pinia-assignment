@@ -32,11 +32,11 @@ body {
 }
 
 .hero h1::before {
-  content: "✦ ";
+  content: "💕 ";
 }
 
 .hero h1::after {
-  content: " ♡";
+  content: " 💕";
 }
 
 .hero p {
